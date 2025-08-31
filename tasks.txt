@@ -1,0 +1,4 @@
+
+[38;2;255;165;0mTask: [0mTask 2 | [38;2;255;165;0mDescription: [0mTask 2 | [38;2;255;165;0mDue: [0m2025-08-18 | [38;2;255;165;0mCompleted: [0mfalse
+[38;2;255;165;0mTask: [0mArjun fold clothes | [38;2;255;165;0mDescription: [0mFold clothes and pack for vacation | [38;2;255;165;0mDue: [0m2025-08-17 | [38;2;255;165;0mCompleted: [0mtrue
+[38;2;255;165;0mTask: [0mHug Papa | [38;2;255;165;0mDescription: [0mHug Papa | [38;2;255;165;0mDue: [0m2025-08-17 | [38;2;255;165;0mCompleted: [0mfalse
