@@ -1,7 +1,6 @@
 # 🗂️ Task Manager
 
-A lightweight **console-based task management system** built in Java.  
-It allows users to create, track, and manage tasks with persistent storage using file I/O.
+A lightweight **console-based task management system** built in Java. It allows users to create, track, and manage tasks with persistent storage using file I/O.
 
 ## 🚀 Overview
 
