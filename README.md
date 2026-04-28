@@ -1,20 +1,55 @@
-# 🗂️ Task-Manager
+# 🗂️ Task Manager
 
-Task-Manager is a **console-based program** designed to help users efficiently manage tasks. It allows adding, completing, and removing entries, while implementing **file I/O** for persistent storage. The program ensures your tasks are saved between sessions and enhances usability with deadline tracking and color-coded output.
+A lightweight **console-based task management system** built in Java.  
+It allows users to create, track, and manage tasks with persistent storage using file I/O.
 
-## 📌 Core Functionality
+## 🚀 Overview
 
-Task-Manager focuses on providing a simple yet effective way to manage daily tasks:
+Task Manager is a simple productivity tool that helps users organize daily tasks.  
+It supports task creation, completion tracking, and deletion, with data saved between sessions.
 
-- **Add tasks** with descriptions and deadlines  
-- **Complete tasks** and mark them as done  
-- **Remove tasks** that are no longer needed  
-- **Persistent storage** via file I/O to save tasks across sessions  
-- **Color-coded output** for quick visual cues  
+## ✨ Features
 
-## 🔹 Features
+- ➕ Add tasks with descriptions and deadlines  
+- ✅ Mark tasks as completed  
+- ❌ Remove unwanted tasks  
+- 💾 Persistent storage using file I/O  
+- 🎨 Color-coded console output for better readability  
+- 📅 Deadline tracking for better task prioritization
 
-- **Console-based interface** for lightweight operation  
-- **Deadline tracking** to keep priorities clear  
-- **Enhanced usability** with organized task display  
-- **Future improvements planned**: advanced sorting, filtering, and a graphical interface
+## 🧠 Core Functionality
+
+The program focuses on simplicity and usability:
+
+- Tasks are stored locally using file handling  
+- Data persists across program restarts  
+- Users interact through a clean console interface  
+- Tasks are visually organized for quick scanning
+
+## 🛠️ Tech Stack
+
+- Java  
+- File I/O (FileReader / FileWriter)  
+- Console-based UI  
+
+## 📂 Project Structure
+
+- Main task manager logic  
+- File handling system for saving/loading tasks  
+- Task model handling status, description, and deadlines  
+
+## 📈 Future Improvements
+
+- Task sorting and filtering  
+- Priority levels (High / Medium / Low)  
+- Graphical user interface (GUI version)  
+- Reminder system for deadlines  
+- Cloud storage integration  
+
+## 👨‍💻 Purpose of Project
+
+This project was built to practice:
+- Object-oriented programming in Java  
+- File handling and persistence  
+- Console UI design  
+- Basic system design for productivity tools  
