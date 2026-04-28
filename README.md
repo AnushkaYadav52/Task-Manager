@@ -4,8 +4,7 @@ A lightweight **console-based task management system** built in Java. It allows 
 
 ## 🚀 Overview
 
-Task Manager is a simple productivity tool that helps users organize daily tasks.  
-It supports task creation, completion tracking, and deletion, with data saved between sessions.
+Task Manager is a simple productivity tool that helps users organize daily tasks. It supports task creation, completion tracking, and deletion, with data saved between sessions.
 
 ## ✨ Features
 
